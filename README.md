@@ -25,5 +25,5 @@ _Run `python xxxx.py`_ to start live camera
 
 ## ***Visualization***
 
-<a href="sample1.png"><img src="sample1out.png" width="73%" align="center"></a>
+<a href="sample1.png"><img src="sample1out.png" width="100%" align="center"></a>
 
