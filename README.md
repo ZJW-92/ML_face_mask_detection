@@ -14,7 +14,7 @@ All the dataset is downloaded from [here](https://github.com/X-zhangyang/Real-Wo
 - _[CaffeModel](https://caffe.berkeleyvision.org/model_zoo.html): A machine learning model created by Caffe, which contains an image classification or image segmentation model that has been trained using Caffe._
 
 ## ***Setup*** 
-_Open Pycharm terminal and run  `pip install -r requirements.txt` and `python xxxx.py`_
+_Open Pycharm terminal and run  `pip install -r requirements.txt`_
 
 ## ***Detect image or live camera***
 
