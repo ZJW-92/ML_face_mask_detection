@@ -1,24 +1,29 @@
 
-# ***Machine Learning Face Mask Detection***
+# ***[Face Mask Detection Using OpenCV](#visualization)***
 
 _Face Mask Detection is the task of recognizing if a person is wearing a mask or not using Machine Learning technology._
 
 ## ***Data source***
 
+All the dataset is downloaded from [here](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset)
 
 ## ***Technologies***
 - _Keras: A high-level, deep learning API for implementing neural networks._
 - _Tensorflow: An open-sourced end-to-end platform, a library for multiple machine learning tasks._ 
 - _OpenCV: A library of Python bindings designed to solve computer vision problems._
-
+- _[CaffeModel](https://caffe.berkeleyvision.org/model_zoo.html): A machine learning model created by Caffe, which contains an image classification or image segmentation model that has been trained using Caffe._
 
 ## ***Setup*** 
 _Open Pycharm terminal and run  `pip install -r requirements.txt` and `python xxxx.py`_
 
+## ***Detect image or live camera 
+
+_Run `python xxxx.py`_ to detect one image 
+
+_Run `python xxxx.py`_ to start live camera  
+
 
 ## ***Visualization***
 
-<a href="sample2.gif"><img src="gif/sample2.gif" width="33%" align="center"></a>
-<a href="sample1.gif"><img src="gif/sample1.gif" width="30%" align="center"></a>
-<a href="sample3.gif"><img src="gif/sample3.gif" width="33%" align="center"></a>
+<a href="sample1.png"><img src="sample1out.png" width="73%" align="center"></a>
 
