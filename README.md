@@ -16,7 +16,7 @@ All the dataset is downloaded from [here](https://github.com/X-zhangyang/Real-Wo
 ## ***Setup*** 
 _Open Pycharm terminal and run  `pip install -r requirements.txt` and `python xxxx.py`_
 
-## ***Detect image or live camera 
+## ***Detect image or live camera***
 
 _Run `python xxxx.py`_ to detect one image 
 
