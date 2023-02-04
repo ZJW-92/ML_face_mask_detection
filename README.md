@@ -18,9 +18,9 @@ _Open Pycharm terminal and run  `pip install -r requirements.txt` and `python xx
 
 ## ***Detect image or live camera***
 
-_Run `python xxxx.py`_ to detect one image 
+_Run `python3 mask_detection_image.py --image images/sample1.png` to detect one image_
 
-_Run `python xxxx.py`_ to start live camera  
+_Run `python3 mask_detection_video.py ` to start live camera_
 
 
 ## ***Visualization***
